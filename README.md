@@ -14,6 +14,10 @@ Interactive Tableau Public dashboard analyzing user activity, engagement, and co
 
 - Tableau Public
 
+## Tableau File
+
+The Tableau workbook is available in this same folder as `Facebook Data Analysis Dashboard.twbx`.
+
 ## Preview
 
 ![Facebook Data Analysis Dashboard preview](assets/facebook-data-analysis-dashboard.png)
